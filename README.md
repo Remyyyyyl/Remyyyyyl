@@ -40,12 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats
-- ⭐ Stars: 0  
-- 📦 Commits: 0  
-- 🔀 PRs: 0  
-
----
 
 ## 📬 Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ocastellanos254@gmail.com)
