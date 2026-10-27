@@ -37,37 +37,27 @@ Omarchy/Hyprland bar widget: shows the focused window as icon, app name and titl
 
 ### 🐍 Languages
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=4ec9f0)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=a5d6ff)
-![QML](https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ### ⚡ Frameworks & APIs
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=4ecfb0)
-![Flask](https://img.shields.io/badge/Flask-1a1a1a?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST-FF6C37?style=for-the-badge)
 
 ### 🔐 Security
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![BCrypt](https://img.shields.io/badge/BCrypt-4a1a1a?style=for-the-badge)
 ![2FA](https://img.shields.io/badge/2FA%20%2F%20TOTP-0A2540?style=for-the-badge)
-![gitleaks](https://img.shields.io/badge/gitleaks-181717?style=for-the-badge&logo=git&logoColor=white)
-![ISO 27037](https://img.shields.io/badge/ISO%2027037-1a1a1a?style=for-the-badge)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=cfe0ff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🤖 AI / LLM Stack
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-0A2540?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4a1a1a?style=for-the-badge)
 ![OpenCode](https://img.shields.io/badge/OpenCode-1a1a1a?style=for-the-badge)
 
 ### 🧰 Tools
